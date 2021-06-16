@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/f/univercity/term 2/AP !/takalif/tamrin 6/soal 1/Jungle/Animal.h
+
+/cygdrive/f/univercity/term 2/AP !/takalif/tamrin 6/soal 1/Jungle/WildAnimal.cpp
+iostream
+-
+WildAnimal.h
+/cygdrive/f/univercity/term 2/AP !/takalif/tamrin 6/soal 1/Jungle/WildAnimal.h
+
+/cygdrive/f/univercity/term 2/AP !/takalif/tamrin 6/soal 1/Jungle/WildAnimal.h
+Animal.h
+/cygdrive/f/univercity/term 2/AP !/takalif/tamrin 6/soal 1/Jungle/Animal.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/jungle.dir/main.cpp.o CMakeFiles/jungle.dir/Animal.cpp.o CMakeFiles/jungle.dir/WildAnimal.cpp.o CMakeFiles/jungle.dir/DomesticAnimal.cpp.o CMakeFiles/jungle.dir/Jungle.cpp.o CMakeFiles/jungle.dir/Pet.cpp.o -o jungle.exe -Wl,--out-implib,libjungle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
